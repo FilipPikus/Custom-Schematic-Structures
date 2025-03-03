@@ -1,0 +1,7 @@
+name: WorldGenateration
+version: '${project.version}'
+main: de.filippikus.worldgenateration.WorldGenateration
+api-version: '1.19'
+commands:
+  wg:
+    permission: wg.use
